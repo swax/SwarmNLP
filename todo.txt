@@ -1,0 +1,22 @@
+
+if function uses time, then values cant be cached
+
+use cursor as another point particles gravitate towards to give user input into optimization
+
+click on swarm to jolt particles / put more energy into the system
+
+pan/zoom support
+
+equality / integer constraints
+
+out of memory / bitmap problems?
+
+Notes
+	Win32 is used for drawing as opposed to GdiPlus because win32 is hardware accelerated
+
+	Evaluator - from codeproject, lets me compile code on the fly
+		user can import custom equations and have them compiled into native code
+		
+	FastInvoke - Some how hacks reflection so that I can dynamically invoke those
+		compiled functions really quickly, as opposed to before when it was much slower..
+		
