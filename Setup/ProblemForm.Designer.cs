@@ -102,7 +102,7 @@ namespace SwarmNLP
             this.ConstraintsList.IntegralHeight = false;
             this.ConstraintsList.Location = new System.Drawing.Point(6, 26);
             this.ConstraintsList.Name = "ConstraintsList";
-            this.ConstraintsList.Size = new System.Drawing.Size(364, 87);
+            this.ConstraintsList.Size = new System.Drawing.Size(364, 88);
             this.ConstraintsList.TabIndex = 7;
             this.ConstraintsList.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.ConstraintsList_MouseDoubleClick);
             // 
@@ -182,7 +182,7 @@ namespace SwarmNLP
             this.splitContainer1.Panel2.Controls.Add(this.RemoveConstraintLink);
             this.splitContainer1.Panel2.Controls.Add(this.AddConstraintLink);
             this.splitContainer1.Size = new System.Drawing.Size(373, 236);
-            this.splitContainer1.SplitterDistance = 115;
+            this.splitContainer1.SplitterDistance = 114;
             this.splitContainer1.TabIndex = 17;
             // 
             // label4
@@ -225,7 +225,7 @@ namespace SwarmNLP
             this.FunctionList.IntegralHeight = false;
             this.FunctionList.Location = new System.Drawing.Point(6, 26);
             this.FunctionList.Name = "FunctionList";
-            this.FunctionList.Size = new System.Drawing.Size(364, 86);
+            this.FunctionList.Size = new System.Drawing.Size(364, 85);
             this.FunctionList.TabIndex = 18;
             this.FunctionList.MouseDoubleClick += new System.Windows.Forms.MouseEventHandler(this.FunctionList_MouseDoubleClick);
             // 
@@ -255,7 +255,7 @@ namespace SwarmNLP
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.SystemColors.ControlLight;
+            this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(397, 372);
             this.Controls.Add(this.TimeCheckBox);
             this.Controls.Add(this.splitContainer1);
