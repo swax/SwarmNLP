@@ -1,5 +1,5 @@
 ﻿
-Swarm NLP 
+###Swarm NLP 
 
 Uses particle swarm optimization to find approximate solutions to
 non-linear programming and multi-criteria decision making problems.
@@ -17,8 +17,4 @@ for any objective function.
 
 A shaded red region indicates infeasible solutions.
 Lighter and darker regions on the screen indicate high and low function values.
-
-Demo: http://www.youtube.com/watch?v=CDl9ZQdsxKE
-
-- swax
 
